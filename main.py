@@ -26,7 +26,7 @@ for i in x:
     #print(t)
     users.append(t)
 
-#print(users)
+print(users)
 while True:
     time.sleep(2)
     login = input('login:')
